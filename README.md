@@ -6,5 +6,3 @@ Examples for the SearchAThing.Arduino.Net + Enc28j60 driver.
 - SRUDP ( echo server )
 - SRUDP-TCP-Bridge
 - Arduino Servo
-
-Documentation available here https://searchathing.com/?p=831
